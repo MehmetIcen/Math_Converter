@@ -20,7 +20,7 @@ ln(𝑥**3) wird als ln(x**3) geschrieben.
 
 # sin(x): Stellt die Sinusfunktion 
 sin(x) dar. Beispiel: 
-sin(ln(x**3)) wird als sin(ln(x**3)) geschrieben.
+sin(ln(x^3)) wird als sin(ln(x^3)) geschrieben.
 
 # sqrt(x): Stellt die Quadratwurzel 
 𝑥 dar. Beispiel: 

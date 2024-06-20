@@ -6,23 +6,23 @@ Dieses Projekt konvertiert mathematische Funktionen in Bilder und fügt diese Bi
 
 ##Anwendung
 
-#Rational(p, q): Stellt die Potenz 
+# Rational(p, q): Stellt die Potenz 
 𝑝/𝑞 dar. Beispiel: 
 7√x wird als x**Rational(1, 7) geschrieben.
 
-#exp(x): Stellt die Exponentialfunktion 
+# exp(x): Stellt die Exponentialfunktion 
 √x dar. Beispiel: 
 wird als exp(sqrt(x)) geschrieben.
 
-#ln(x): Stellt den natürlichen Logarithmus 
+# ln(x): Stellt den natürlichen Logarithmus 
 ln(𝑥) dar. Beispiel: 
 ln(𝑥**3) wird als ln(x**3) geschrieben.
 
-#sin(x): Stellt die Sinusfunktion 
+# sin(x): Stellt die Sinusfunktion 
 sin(x) dar. Beispiel: 
 sin(ln(x**3)) wird als sin(ln(x**3)) geschrieben.
 
-#sqrt(x): Stellt die Quadratwurzel 
+# sqrt(x): Stellt die Quadratwurzel 
 𝑥 dar. Beispiel: 
 wird als sqrt(x) geschrieben.
 

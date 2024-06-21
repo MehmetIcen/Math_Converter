@@ -11,20 +11,20 @@ Dieses Projekt konvertiert mathematische Funktionen in Bilder und fügt diese Bi
 7√x wird als x**Rational(1, 7) geschrieben.
 
 # exp(x): Stellt die Exponentialfunktion 
-√x dar. Beispiel: 
+e**√x dar. Beispiel: 
 wird als exp(sqrt(x)) geschrieben.
 
 # ln(x): Stellt den natürlichen Logarithmus 
 ln(𝑥) dar. Beispiel: 
-ln(𝑥**3) wird als ln(x**3) geschrieben.
+ln(𝑥^3) wird als ln(x**3) geschrieben.
 
 # sin(x): Stellt die Sinusfunktion 
 sin(x) dar. Beispiel: 
-sin(ln(x^3)) wird als sin(ln(x^3)) geschrieben.
+sin(ln(x^3)) wird als sin(ln(x**3)) geschrieben.
 
 # sqrt(x): Stellt die Quadratwurzel 
 𝑥 dar. Beispiel: 
-wird als sqrt(x) geschrieben.
+√x wird als sqrt(x) geschrieben.
 
 ## Voraussetzungen
 

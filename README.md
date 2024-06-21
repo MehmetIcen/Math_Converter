@@ -11,7 +11,7 @@ Dieses Projekt konvertiert mathematische Funktionen in Bilder und fügt diese Bi
 7√x wird als x**Rational(1, 7) geschrieben.
 
 # exp(x): Stellt die Exponentialfunktion 
-e**√x dar. Beispiel: 
+e^√x dar. Beispiel: 
 wird als exp(sqrt(x)) geschrieben.
 
 # ln(x): Stellt den natürlichen Logarithmus 

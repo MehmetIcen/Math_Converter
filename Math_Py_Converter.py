@@ -46,7 +46,7 @@ for func in functions:
     doc.add_picture(buf, width=Inches(6.0))
 
 # Save the document
-file_path = r"C:\Users\MemoI\PycharmProjects\Math_Excerise_Converter\Your_Math_Exercise.docx"
+file_path = r"paste your path here"
 doc.save(file_path)
 
 #Returns the path of the new file
